@@ -13,5 +13,4 @@ print(des_stat)
 
 # Visualisation
 boxplot = sns.boxplot(data=df,x='SepalLengthCm')
-boxplot
-
+plt.show()
